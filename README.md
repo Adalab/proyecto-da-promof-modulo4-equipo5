@@ -65,7 +65,7 @@ Carpeta "notebooks":
 
 Fuera de las carpetas:
 
-`Presentación_reservas.pbix)`: dashboard en Power BI
+`Presentación_final.pbix`: dashboard en Power BI
 
 
 
